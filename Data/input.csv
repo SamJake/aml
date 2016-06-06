@@ -1,0 +1,26 @@
+TXN_ID,TXN_DT,FIRST_NAME,LAST_NAME,ORIG_ACCT_ID,ORIG_BANK,ORIG_COUNTRY,ORIG_CITY,ORIG_ADDR,ORIG_ZIPCD,DEST_ACCT_ID,DEST_BANK,DEST_COUNTRY,DEST_CITY,DEST_ADDR,DEST_ZIPCD
+110010,01-01-2013,Alehandro,Abud,1.00E+11,HSBC,United States,Baltimore,5697 Dictum Rd.,10001,`200555000001,PNC,United States,Knoxville,"P.O. Box 281, 7465 Enim. Road",20001
+110011,02-01-2013,Abigail,Peake,1.00E+11,CAPITALONE,United States,Fresno,"P.O. Box 909, 2839 Vitae St.",10002,`200555000002,JPMC,United States,Cincinnati,"P.O. Box 685, 3082 Dolor Rd.",20002
+110012,03-01-2013,Blake,Poole,1.00E+11,HSBC,United States,Norman,7117 Vel Avenue,10003,`200555000003,NEW YORK MELLON,United States,Las Vegas,5151 Pede. Ave,20003
+110013,04-01-2013,Dan,Black,1.00E+11,US BANK,United States,Houston,6776 Hendrerit Rd.,10004,`200555000001,US BANK,United States,Springdale,"P.O. Box 284, 5405 Quam. Road",20004
+110014,05-01-2013,Sally,Dowd,1.00E+11,BANK OF AMERICA,United States,Montgomery,Ap #503-7207 Vehicula St.,10005,`200555000002,US BANK,United States,Bear,Ap #273-3220 Condimentum Rd.,20005
+110015,06-01-2013,Maria,Churchill,1.00E+11,HSBC,United States,Kenosha,848-9113 Euismod Av.,10006,`200555000003,NEW YORK MELLON,United States,Reading,932-1988 Augue Street,20006
+110016,07-01-2013,Irene,Langdon,1.00E+11,HSBC,United States,Lakewood,Ap #174-6731 Nec Street,10007,`200555000001,NEW YORK MELLON,United States,Newark,"P.O. Box 663, 505 In St.",20007
+110017,08-01-2013,Lillian,Hodges,1.00E+11,CITIBANK,United States,Honolulu,9762 Purus Street,10008,`200555000002,US BANK,United States,Warren,326-4585 Mauris Av.,20008
+110018,09-01-2013,Una,Bower,1.00E+11,CITIBANK,United States,Pike Creek,929-488 Metus. Rd.,10009,`200555000003,US BANK,United States,Kansas City,Ap #976-1176 Malesuada Avenue,20009
+110019,10-01-2013,Maria,Graham,1.00E+11,BANK OF AMERICA,United States,Rock Springs,"P.O. Box 772, 148 Nunc Rd.",10010,`200555000001,NEW YORK MELLON,United States,Olympia,650-6823 Fringilla Rd.,20010
+110020,11-01-2013,Michael,Springer,1.00E+11,CITIBANK,United States,Fort Collins,"Ap #817-9129 Ac, Street",10011,`200555000002,NEW YORK MELLON,United States,Springdale,479-5857 Natoque Ave,20011
+110021,12-01-2013,Stewart,Wright,1.00E+11,HSBC,United States,Little Rock,953-7978 Est St.,10012,`200555000003,JPMC,United States,Idaho Falls,673-6634 Malesuada Ave,20012
+110022,13-01-2013,Maria,Black,1.00E+11,HSBC,United States,Hillsboro,186-4025 Senectus Rd.,10013,`200555000001,US BANK,United States,Aurora,Ap #692-6675 Sit Street,20013
+110023,14-01-2013,Piers,Wright,1.00E+11,CAPITALONE,United States,Kearney,"P.O. Box 990, 1717 Odio. Street",10014,`200555000002,US BANK,United States,Wichita,Ap #406-8111 Iaculis St.,20014
+110024,15-01-2013,Nicola,Arnold,1.00E+11,CAPITALONE,United States,Columbia,634-1686 In Road,10015,`200555000003,JPMC,United States,Georgia,194-9405 Enim. St.,20015
+110025,16-01-2013,William,Paterson,1.00E+11,HSBC,United States,Kapolei,590-6618 Eros Street,10016,`200555000001,HSBC,United States,Houston,Ap #674-4274 Nam Rd.,20016
+110026,17-01-2013,Donna,Murray,1.00E+11,BANK OF AMERICA,United States,Tucson,"P.O. Box 330, 1022 Sed Ave",10017,`200555000002,JPMC,United States,New Haven,Ap #706-453 Nulla Av.,20017
+110027,18-01-2013,Blake,Hunter,1.00E+11,CAPITALONE,United States,Ketchikan,Ap #573-683 Pharetra. Street,10018,`200555000003,NEW YORK MELLON,United States,Lewiston,Ap #382-7021 Mi Avenue,20018
+110028,19-01-2013,Kevin,Payne,1.00E+11,BANK OF AMERICA,United States,Birmingham,4229 Sed St.,10019,`200555000001,NEW YORK MELLON,United States,Mesa,479-3629 Dui. Ave,20019
+110029,20-01-2013,Grace,Edmunds,1.00E+11,CITIBANK,United States,Iowa City,"3965 Vel, Av.",10020,`200555000002,NEW YORK MELLON,United States,Overland Park,Ap #185-3476 Ac Ave,20020
+110030,21-01-2013,William,Taylor,1.00E+11,US BANK,United States,Bloomington,"P.O. Box 457, 1093 Nunc Street",10021,`200555000003,NEW YORK MELLON,United States,Birmingham,511 Proin Av.,20021
+110031,22-01-2013,Steven,Mathis,1.00E+11,HSBC,United States,Kenosha,773-1894 Pellentesque. Rd.,10022,`200555000001,NEW YORK MELLON,United States,Huntsville,Ap #642-4518 Ipsum Ave,20022
+110032,23-01-2013,Tracey,Peake,1.00E+11,HSBC,United States,Akron,"P.O. Box 429, 4356 Fringilla Ave",10023,`200555000002,JPMC,United States,Butte,915-4155 Sed Av.,20023
+110033,24-01-2013,Sam,Payne,1.00E+11,CITIBANK,United States,Newport News,6765 Nulla. Road,10024,`200555000003,JPMC,United States,Cedar Rapids,415-6598 Libero Ave,20024
+110034,25-01-2013,Sebastian,James,1.00E+11,US BANK,United States,Metairie,1345 Justo Street,10025,`200555000001,NEW YORK MELLON,United States,Juneau,Ap #472-4299 Fermentum Rd.,20025
